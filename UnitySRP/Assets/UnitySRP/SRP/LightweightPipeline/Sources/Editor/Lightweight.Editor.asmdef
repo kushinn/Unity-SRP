@@ -1,6 +1,9 @@
 {
-    "name": "Lightweight.Runtime",
+    "name": "Lightweight.Editor",
     "references": [
+        "LycorisCore.Runtime",
+        "LycorisCore.Editor",
+        "Lightweight.Runtime"
     ],
     "optionalUnityReferences": [],
     "includePlatforms": [],

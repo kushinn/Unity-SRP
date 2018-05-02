@@ -1,0 +1,9 @@
+{
+    "name": "LycorisCore.Editor",
+    "references": [
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true
+}
